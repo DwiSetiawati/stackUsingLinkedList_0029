@@ -74,3 +74,7 @@ public:
         } // return the value of the top node
     }
 };
+
+int main()
+{
+}
